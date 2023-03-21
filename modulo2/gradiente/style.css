@@ -1,0 +1,7 @@
+* { /* configurações globais das CSS*/
+    height: 100%
+}
+
+body{
+    background-image: linear-gradient(-45deg, #7C0CFF,#FE02B9,#FF1B17,#FEC900);
+}
